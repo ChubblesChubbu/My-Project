@@ -43,6 +43,6 @@ single React page using (Create-React-App). It offers a build setup with no conf
 
 Here onwards, you can build any anything your heart desires in React.JS since everything is bootstrapped for you.
 
-The end result can look like my mini-portfolio.
+The end result can look like my mini-portfolio in the link below.
 
-[link](https://my-project-l101othe4-chubbleschubbu.vercel.app/index.html#home)
+[My mini-portfolio](https://my-project-l101othe4-chubbleschubbu.vercel.app/index.html#home)

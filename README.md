@@ -30,7 +30,7 @@ npm start
 ```
     It should look like this:
  
-screenshot
+![Screenshot1](https://user-images.githubusercontent.com/42533189/205320400-be39a90a-d619-43ef-bb77-6f160f35736e.png)
 
 3. Open the save folder
 Because we saved our app in our local user account e.g(C:\Users\user-pc), we will open the folder on the IDE

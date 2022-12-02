@@ -39,7 +39,7 @@ Because we saved our app in our local user account e.g(C:\Users\user-pc), we wil
 While running the command line in your terminal, the package manager used was compiling every package needed to create a
 single React page using (Create-React-App). It offers a build setup with no configuration needed.
 
-screenshot2
+![Screenshot2](https://user-images.githubusercontent.com/42533189/205320722-2ffeb54e-f5bf-4168-83d0-200b289d0e84.png)
 
 Here onwards, you can build any anything your heart desires in React.JS since everything is bootstrapped for you.
 
